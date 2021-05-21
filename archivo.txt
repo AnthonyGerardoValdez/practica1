@@ -6,4 +6,5 @@
 6.-	Carrera tecnologías de la información
 7.-	area: desarrollo de software multiplataforma
 8.-	turno: Matutino
-9.- docente :jose narvaez
+9.-	docente :jose narvaez
+10.-	objetivo materia: desarrollar una aplicacion que pueden ser despegables en web
