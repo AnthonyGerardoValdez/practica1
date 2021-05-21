@@ -1,0 +1,8 @@
+1.-	hola mundo
+2.-	primer-pratica-git
+3.-	aplicaciones-web
+4.-	grupo:-C
+5.-	Grado:-ero
+6.-	Carrera tecnologias de la informacion
+7.-	area: desarrollo de software multiplataforma
+8.-	turno: Matutino
