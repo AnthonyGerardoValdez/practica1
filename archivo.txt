@@ -1,11 +1,10 @@
 
-2.-	primer-pratica-git
+2.-	primer-pratica-git con GitHub
 3.-	aplicaciones-web
 4.-	grupo:-C
 5.-	Grado:-ero
 6.-	Carrera tecnologías de la información
 7.-	area: desarrollo de software multiplataforma
 8.-	turno: Matutino
-9.-	docente :jose narvaez
-10.-	objetivo materia: desarrollar una aplicacion que pueden ser despegables en web
-11.-	segundo cambio branch
+9.- docente :jose narvaez
+10.-	competencias:textoo
