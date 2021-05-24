@@ -7,3 +7,4 @@
 7.-	area: desarrollo de software multiplataforma
 8.-	turno: Matutino
 9.- docente :jose narvaez
+10.-	competencias:textoo
