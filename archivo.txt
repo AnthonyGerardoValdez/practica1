@@ -1,5 +1,5 @@
 
-2.-	primer-pratica-git
+2.-	primer-pratica-git con GitHub
 3.-	aplicaciones-web
 4.-	grupo:-C
 5.-	Grado:-ero
