@@ -5,3 +5,4 @@ grupo: c
 grado: 3ro
 carrera: tecnologias de la informacion
 area: desarrollo de software multiplataforma
+turno: matutino
