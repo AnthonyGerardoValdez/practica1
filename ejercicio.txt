@@ -5,3 +5,5 @@ carrera: tecnologias de la informacion
 area: desarrollo de software multiplataforma
 turno: matutino
 docente: Jose Narvaez
+Objetivo Materia: Desarrollar aplicaciones que puedan ser desplegadas en internet
+competencias: texto para rellenar y que se visualice el cambio
