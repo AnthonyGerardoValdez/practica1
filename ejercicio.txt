@@ -1,0 +1,7 @@
+segundo Hola mundo
+primer practica git
+aplicaciones web
+grupo: c
+grado: 3ro
+carrera: tecnologias de la informacion
+area: desarrollo de software multiplataforma
